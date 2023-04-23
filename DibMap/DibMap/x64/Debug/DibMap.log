@@ -1,0 +1,10 @@
+﻿  DibMain.cpp
+J:\C语言\windowsApp\DibMap\DibMap\head\WndProc.h(349,61): warning C4312: “类型强制转换”: 从“LONG”转换到更大的“HWND”
+J:\C语言\windowsApp\DibMap\DibMap\head\WndProc.h(350,59): warning C4312: “类型强制转换”: 从“LONG”转换到更大的“HWND”
+J:\C语言\windowsApp\DibMap\DibMap\head\WndProc.h(356,58): warning C4312: “类型强制转换”: 从“LONG”转换到更大的“HWND”
+J:\C语言\windowsApp\DibMap\DibMap\head\WndProc.h(473,40): warning C4018: “<=”: 有符号/无符号不匹配
+J:\C语言\windowsApp\DibMap\DibMap\head\WndProc.h(160,8): warning C4101: “menu”: 未引用的局部变量
+J:\C语言\windowsApp\DibMap\DibMap\head\WndProc.h(682,11): warning C4101: “pt”: 未引用的局部变量
+J:\C语言\windowsApp\DibMap\DibMap\head\WndProc.h(791,2): warning C4065: switch 语句包含“default”但是未包含“case”标签
+J:\C语言\windowsApp\DibMap\DibMap\src\DibMain.cpp(69,13): warning C4244: “return”: 从“WPARAM”转换到“int”，可能丢失数据
+  DibMap.vcxproj -> J:\C语言\windowsApp\DibMap\x64\Debug\DibMap.exe
